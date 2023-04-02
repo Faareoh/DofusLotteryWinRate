@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
 ‎ |‎ |‎ 
 ---|---|---
 |<img src='https://api.dofusdb.fr/img/items/42135.png' width='30px'/> <u></u>[Bonbon du Chanceux](https://dofusdb.fr/fr/database/object/7803) - 0.01%|<img src='https://api.dofusdb.fr/img/items/42136.png' width='30px'/> <u></u>[Bonbon de Renaissance du Chanceux](https://dofusdb.fr/fr/database/object/12196) - 0.01%|<img src='https://api.dofusdb.fr/img/items/12739.png' width='30px'/> <u></u>[Potion de changement de visage](https://dofusdb.fr/fr/database/object/13518) - 0.01%|
